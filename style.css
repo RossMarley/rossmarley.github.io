@@ -1,0 +1,22 @@
+body {
+  font-family: 'Streamster', 'Cairo';
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@font-face {
+  font-family: Streamster
+  src:
+    local('Streamster'),
+    url('fonts/streamster.ttf');
+    format('truetype')
+}
+
+a {
+  color: #f4b;
+}
+
+a:visited {
+  color: #62b;
+}
